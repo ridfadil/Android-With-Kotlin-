@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">SubmissionOneFarid</string>
+    <string name="name">Manchester United</string>
+
+    <string-array name="nama_klub">
+        <item>Bayern Munchen FC</item>
+        <item>Manchester United FC</item>
+        <item>Chelsea FC</item>
+        <item>AC Milan FC</item>
+        <item>Arsenal FC</item>
+        <item>Barcelona FC</item>
+        <item>Real Madrid FC</item>
+        <item>Manchester City FC</item>
+    </string-array>
+
+    <array name="gambar_klub">
+        <item>@drawable/img_bayern</item>
+        <item>@drawable/img_mu</item>
+        <item>@drawable/img_chelsea</item>
+        <item>@drawable/img_acm</item>
+        <item>@drawable/img_arsenal</item>
+        <item>@drawable/img_barca</item>
+        <item>@drawable/img_madrid</item>
+        <item>@drawable/img_city</item>
+    </array>
+
+    <array name="deskripsi_klub">
+        <item>FC Bayern was founded in 1900 by 11 football players, led by Franz John. Although Bayern won its first national championship in 1932, the club was not selected for the Bundesliga at its inception in 1963</item>
+        <item>Manchester United Football Club, commonly known as Man. United or simply United, is a professional football club based in Old Trafford, Greater Manchester, England, that competes in the Premier League, the top flight of English football. </item>
+        <item>Chelsea regular kit colours are royal blue shirts and shorts with white socks. The club crest has been changed several times in attempts to re-brand the club and modernise its image. is a modification of the one introduced in the early 1950s</item>
+        <item>Milan home games are played at San Siro, also known as the Stadio Giuseppe Meazza. The stadium, which is shared with city rivals Internazionale, is the largest in Italian football, with a total capacity of 80,018</item>
+        <item>Arsenal was the first club from the South of England to join The Football League, in 1893, and they reached the First Division in 1904. and have won the second-most top-flight matches in English football history</item>
+        <item>Founded as a Roman city, in the Middle Ages Barcelona became the capital of the County of Barcelona. After merging with the  of the Principality of Catalonia</item>
+        <item>Madrid lies on the River Manzanares in the centre of both the country and the Community of Madrid (which comprises the city of Madrid, its conurbation and extended suburbs and villages) </item>
+        <item>Manchester City first played in the top-tier of the Football League in 1899 and won their first major honour with the FA Cup in 1904. lThe clubs most successful period was from 1968 to 1970, </item>
+    </array>
+</resources>
+
+

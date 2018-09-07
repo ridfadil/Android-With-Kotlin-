@@ -1,0 +1,171 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\KADE\SubmissionOneFarid\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\KADE\SubmissionOneFarid\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\KADE\SubmissionOneFarid\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\KADE\SubmissionOneFarid\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc02.aar\7e96d93940e324d19978c9f2f3446963\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1b2b40ef816785085b087007de6f66db\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-rc02.aar\c9fae7ef8741241c8712010060a5b104\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\30d8f03d201c8cdb3292837ac31e4985\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:cardview-v7:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-rc02.aar\6a97206fc8c2fffbbce4303c826e7119\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc02.aar\5b2b15146b8646e0cb7f56e4d7891152\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc02.aar\23d86c02a197e66048c6b7a3642f06e2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc02.aar\4ea74266fa5ba4952f61ed70ec0eaede\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc02.aar\5cba17ff1b820bceea78ff3068f21cc5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc02.aar\8f7dc9fc256fd39112b88a420af750b5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc02.aar\c8ff5243412a62e9108ed44e612b823f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc02.aar\b0794a679b12e55bd885d2e753cc5157\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc02.aar\2fc7a03a42e7a4e545a70502d2c0a062\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc02.aar\ab4391178e9d2e4dbb11e40634b231f2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc02.aar\72d2cbbd38355c429c07d5bb5b149896\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc02.aar\19fa24007a9649786ee3cc887a9bdaea\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc02.aar\010d4212bea46af9252be2707cd21a27\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc02.aar\d68df7c2847329c5fcc887454976de92\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\1b84c3aa9a403c24b626c22a81dc0f96\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\cba2c40dacb7c47bf522b7629783f597\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc02.aar\9fb7f4b957d6e36cd338e7416001e641\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\07db4e8befcaaa8912b33e9eeb694571\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ced28b37539dccab31fae172fa4dd324\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc02.aar\6ed36acbfa3f88e424423e56cca57404\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc02.aar\a9e8f27922a5501e2422f8a2f508e746\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc02.aar\c573c2e1569c0dcc588fab3a31d3829a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc02.aar\52129890b3e7c9836e0cf128a6c45a21\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\a9272b2039b1ece7cb52eff8d49cf371\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c34c489c237590abd5c4589399f2e938\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1fa11a350e2e3ef6905fc56935dd85e3\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\KADE\SubmissionOneFarid\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\KADE\SubmissionOneFarid\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\KADE\SubmissionOneFarid\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from E:\KADE\SubmissionOneFarid\app\src\main\AndroidManifest.xml:3:5-52
+		INJECTED from E:\KADE\SubmissionOneFarid\app\src\main\AndroidManifest.xml
+		INJECTED from E:\KADE\SubmissionOneFarid\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\KADE\SubmissionOneFarid\app\src\main\AndroidManifest.xml
+		ADDED from E:\KADE\SubmissionOneFarid\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from E:\KADE\SubmissionOneFarid\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\KADE\SubmissionOneFarid\app\src\main\AndroidManifest.xml
+		ADDED from E:\KADE\SubmissionOneFarid\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from E:\KADE\SubmissionOneFarid\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\KADE\SubmissionOneFarid\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\KADE\SubmissionOneFarid\app\src\main\AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1b2b40ef816785085b087007de6f66db\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1b2b40ef816785085b087007de6f66db\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\30d8f03d201c8cdb3292837ac31e4985\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\30d8f03d201c8cdb3292837ac31e4985\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\1b84c3aa9a403c24b626c22a81dc0f96\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\1b84c3aa9a403c24b626c22a81dc0f96\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\cba2c40dacb7c47bf522b7629783f597\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\cba2c40dacb7c47bf522b7629783f597\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\07db4e8befcaaa8912b33e9eeb694571\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\07db4e8befcaaa8912b33e9eeb694571\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\1b84c3aa9a403c24b626c22a81dc0f96\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from E:\KADE\SubmissionOneFarid\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from E:\KADE\SubmissionOneFarid\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from E:\KADE\SubmissionOneFarid\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from E:\KADE\SubmissionOneFarid\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from E:\KADE\SubmissionOneFarid\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from E:\KADE\SubmissionOneFarid\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.farid.dicoding.submissiononefarid.activity.MainActivity
+ADDED from E:\KADE\SubmissionOneFarid\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from E:\KADE\SubmissionOneFarid\app\src\main\AndroidManifest.xml:12:19-56
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\KADE\SubmissionOneFarid\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from E:\KADE\SubmissionOneFarid\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from E:\KADE\SubmissionOneFarid\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\KADE\SubmissionOneFarid\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from E:\KADE\SubmissionOneFarid\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.farid.dicoding.submissiononefarid.activity.DetailActivity
+ADDED from E:\KADE\SubmissionOneFarid\app\src\main\AndroidManifest.xml:19:9-70
+	android:name
+		ADDED from E:\KADE\SubmissionOneFarid\app\src\main\AndroidManifest.xml:19:19-58
+uses-sdk
+INJECTED from E:\KADE\SubmissionOneFarid\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\KADE\SubmissionOneFarid\app\src\main\AndroidManifest.xml
+INJECTED from E:\KADE\SubmissionOneFarid\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc02.aar\7e96d93940e324d19978c9f2f3446963\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-rc02.aar\7e96d93940e324d19978c9f2f3446963\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1b2b40ef816785085b087007de6f66db\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1b2b40ef816785085b087007de6f66db\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-rc02.aar\c9fae7ef8741241c8712010060a5b104\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-rc02.aar\c9fae7ef8741241c8712010060a5b104\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\30d8f03d201c8cdb3292837ac31e4985\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.7.1] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\glide-4.7.1.aar\30d8f03d201c8cdb3292837ac31e4985\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:cardview-v7:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-rc02.aar\6a97206fc8c2fffbbce4303c826e7119\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-rc02.aar\6a97206fc8c2fffbbce4303c826e7119\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc02.aar\5b2b15146b8646e0cb7f56e4d7891152\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-rc02.aar\5b2b15146b8646e0cb7f56e4d7891152\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc02.aar\23d86c02a197e66048c6b7a3642f06e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-rc02.aar\23d86c02a197e66048c6b7a3642f06e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc02.aar\4ea74266fa5ba4952f61ed70ec0eaede\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-rc02.aar\4ea74266fa5ba4952f61ed70ec0eaede\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc02.aar\5cba17ff1b820bceea78ff3068f21cc5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-rc02.aar\5cba17ff1b820bceea78ff3068f21cc5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc02.aar\8f7dc9fc256fd39112b88a420af750b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-rc02.aar\8f7dc9fc256fd39112b88a420af750b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc02.aar\c8ff5243412a62e9108ed44e612b823f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-rc02.aar\c8ff5243412a62e9108ed44e612b823f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc02.aar\b0794a679b12e55bd885d2e753cc5157\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-rc02.aar\b0794a679b12e55bd885d2e753cc5157\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc02.aar\2fc7a03a42e7a4e545a70502d2c0a062\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-rc02.aar\2fc7a03a42e7a4e545a70502d2c0a062\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc02.aar\ab4391178e9d2e4dbb11e40634b231f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-rc02.aar\ab4391178e9d2e4dbb11e40634b231f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc02.aar\72d2cbbd38355c429c07d5bb5b149896\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-rc02.aar\72d2cbbd38355c429c07d5bb5b149896\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc02.aar\19fa24007a9649786ee3cc887a9bdaea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-rc02.aar\19fa24007a9649786ee3cc887a9bdaea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc02.aar\010d4212bea46af9252be2707cd21a27\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-rc02.aar\010d4212bea46af9252be2707cd21a27\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc02.aar\d68df7c2847329c5fcc887454976de92\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-rc02.aar\d68df7c2847329c5fcc887454976de92\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\1b84c3aa9a403c24b626c22a81dc0f96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-rc02.aar\1b84c3aa9a403c24b626c22a81dc0f96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\cba2c40dacb7c47bf522b7629783f597\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-rc02.aar\cba2c40dacb7c47bf522b7629783f597\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc02.aar\9fb7f4b957d6e36cd338e7416001e641\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-rc02.aar\9fb7f4b957d6e36cd338e7416001e641\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\07db4e8befcaaa8912b33e9eeb694571\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.7.1.aar\07db4e8befcaaa8912b33e9eeb694571\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ced28b37539dccab31fae172fa4dd324\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ced28b37539dccab31fae172fa4dd324\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc02.aar\6ed36acbfa3f88e424423e56cca57404\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-rc02.aar\6ed36acbfa3f88e424423e56cca57404\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc02.aar\a9e8f27922a5501e2422f8a2f508e746\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-rc02.aar\a9e8f27922a5501e2422f8a2f508e746\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc02.aar\c573c2e1569c0dcc588fab3a31d3829a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\print-28.0.0-rc02.aar\c573c2e1569c0dcc588fab3a31d3829a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc02.aar\52129890b3e7c9836e0cf128a6c45a21\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc02] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-rc02.aar\52129890b3e7c9836e0cf128a6c45a21\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\a9272b2039b1ece7cb52eff8d49cf371\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\a9272b2039b1ece7cb52eff8d49cf371\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c34c489c237590abd5c4589399f2e938\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c34c489c237590abd5c4589399f2e938\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1fa11a350e2e3ef6905fc56935dd85e3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Fadil\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1fa11a350e2e3ef6905fc56935dd85e3\AndroidManifest.xml:20:5-44
+INJECTED from E:\KADE\SubmissionOneFarid\app\src\main\AndroidManifest.xml
+INJECTED from E:\KADE\SubmissionOneFarid\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\KADE\SubmissionOneFarid\app\src\main\AndroidManifest.xml
+		ADDED from E:\KADE\SubmissionOneFarid\app\src\main\AndroidManifest.xml
+		INJECTED from E:\KADE\SubmissionOneFarid\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\KADE\SubmissionOneFarid\app\src\main\AndroidManifest.xml
+		ADDED from E:\KADE\SubmissionOneFarid\app\src\main\AndroidManifest.xml
+		INJECTED from E:\KADE\SubmissionOneFarid\app\src\main\AndroidManifest.xml
